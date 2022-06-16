@@ -17,3 +17,7 @@ Just do it
 #### Deployment
 
 Yesss do it now.
+
+### Copyright
+
+Git.Training
